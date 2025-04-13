@@ -39,7 +39,7 @@ function Home() {
       {/* Stats */}
       <section className="py-16 -mt-8">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-          <div className="grid grid-cols-2 md:grid-cols-4 mx-auto lg:mx-0 backdrop-blur-lg bg-[#1c3c5d]/30 p-8 rounded-2xl shadow-[0_10px_30px_rgba(42,_92,_123,_0.3)] border border-[#5293b6]/20 transform hover:shadow-[0_10px_40px_rgba(42,_92,_123,_0.4)] transition-all duration-300">
+          <div className="grid grid-cols-2 md:grid-cols-4 mx-auto lg:mx-0 backdrop-blur-lg hover:bg-black/70 p-8 rounded-2xl shadow-[0_10px_30px_rgba(42,_92,_123,_0.3)] border border-[#5293b6]/20 transform hover:shadow-[0_10px_40px_rgba(42,_92,_123,_0.4)] transition-all duration-300">
             <div className="text-center p-4 border-r border-[#5293b6]/30 last:border-0 md:border-r">
               <h3 className="text-3xl md:text-4xl font-bold text-[#5293b6] mb-2">250+</h3>
               <p className="text-[#eee5dc]">Projects Completed</p>
