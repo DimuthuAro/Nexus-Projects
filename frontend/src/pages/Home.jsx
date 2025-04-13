@@ -19,7 +19,7 @@ function Home() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="mx-auto lg:mx-0 backdrop-blur-lg back bg-black/60 p-10 rounded-2xl shadow-[0_20px_50px_rgba(42,_92,_123,_0.4)] border border-white/10 transform hover:scale-[1.01] transition-all duration-300">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#eee5dc] mb-6 leading-tight">
-              Manage Your Web Projects with <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#5293b6] via-[#ffa5ac] to-[#b6774a] animate-gradient">Confidence</span>
+              Manage Your Web Projects with හලෝ ලොකූ කොහොමද? <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#5293b6] via-[#ffa5ac] to-[#b6774a] animate-gradient">Confidence</span>
             </h1>
             <p className="text-xl text-[#eee5dc] mb-8 leading-relaxed max-w-2xl">
               From concept to launch, our comprehensive project management system helps you deliver exceptional websites on time and within budget.
