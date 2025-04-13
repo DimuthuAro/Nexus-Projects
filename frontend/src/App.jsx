@@ -19,7 +19,14 @@ const LoadingSpinner = () => (
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-br from-blue-900 to-purple-900 bg-fixed">
+      <div
+        className="min-h-screen bg-fixed backdrop-blur-md"
+        style={{
+          backgroundImage: "url('bg.jpg')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
         <Suspense fallback={<LoadingSpinner />}>
           <Routes>
             <Route path="/" element={<Home />} />
